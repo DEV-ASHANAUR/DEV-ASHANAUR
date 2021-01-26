@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ashanaur&show_icons=true&locale=en&layout=compact" alt="dev-ashanaur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-ashanaur&show_icons=true&locale=en" alt="dev-ashanaur" /></p>
+
