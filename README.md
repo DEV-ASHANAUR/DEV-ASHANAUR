@@ -26,5 +26,6 @@
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ashanaur&show_icons=true&locale=en&layout=compact" alt="dev-ashanaur" /></span>
 
 <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DEV-ASHANAUR&show_icons=true" alt="DEV-ASHANAUR" /></span>
+<img src="https://activity-graph.herokuapp.com/graph?username=DEV-ASHANAUR&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
