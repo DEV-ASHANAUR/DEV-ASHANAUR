@@ -1,13 +1,13 @@
 <h1 align="center">Assalamu Alaikum 👋, I'm Md.Ashanaur Rahman</h1>
-<h3 align="center">A passionate Backend laravel developer from Bangladesh</h3>
+<h3 align="center">A passionate Web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-ashanaur&label=Profile%20views&color=0e75b6&style=flat" alt="dev-ashanaur" /> </p>
 
-- 🔭 I’m currently working on [Advance E-commerce Site](https://github.com/DEV-ASHANAUR/laravel-8-Advance-E-commerce)
+- 🔭 I’m currently working on [YouTube Clone](https://github.com/DEV-ASHANAUR/React-Youtube-Clone---Client)
 
-- 🌱 I’m currently learning **Laravel_8,Vuejs,RestApi,ReactJs**
+- 🌱 I’m currently learning **React Js,Node js,Express js,Mongodb,Redux**
 
-- 🤝 I’m looking for help with **Rest Api Development**
+- 🤝 I’m looking for help with **Next JS , GraphQl, TypeScript**
 
 - 💬 Ask me about **Anything**
 - 😄 Pronouns: He/His
